@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EasyRobot</string>
+    <string name="hello_button">A</string>
+    <string name="dog_animation_button">B</string>
+    <string name="jokes_button">C</string>
+    <string name="hello">Hello</string>
+</resources>
