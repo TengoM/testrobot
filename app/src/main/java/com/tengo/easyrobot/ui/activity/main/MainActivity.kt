@@ -10,7 +10,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : RobotActivity(), MainView {
 
-    private lateinit var presenter: MainPresenter
+    private lateinit var presenter: QiPresenter
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
